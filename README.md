@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 📫 How to reach me: supports@aaianna.com
 - ⚡ Fun fact: I'm currently studying B. Tech Computer Science
 
-<a href="https://https://github.com/BolegaveGovind" target="_blank" rel="noreferrer"><img
+<a href="https://[https://github.com/BolegaveGovind](https://github.com/BolegaveGovind)" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/BolegaveGovind?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BolegaveGovind&label=Profile%20views&color=0e75b6&style=flat" alt="BolegaveGovind" /> </p>
 
